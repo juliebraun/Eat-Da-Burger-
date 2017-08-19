@@ -1,0 +1,10 @@
+img {
+	height: 200px;
+	width: 200px;
+	display: inline-block;
+}
+
+body {
+	background-color: #ffa500;
+}
+
