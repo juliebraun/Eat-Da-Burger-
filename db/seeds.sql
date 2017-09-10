@@ -1,8 +1,3 @@
-INSERT INTO burgers (burger_name)
-VALUES("veggie pattie with pickles");
-
-INSERT INTO burgers (burger_name)
-VALUES ("The Baconater");
-
-INSERT INTO burgers (burger_name)
-VALUES ("Mushroom Swiss on Wheat");
+INSERT INTO burgers (burger_name, devoured) VALUES ('Cheese burger', FALSE);
+INSERT INTO burgers (burger_name, devoured) VALUES ('Mushroom swiss burger', FALSE);
+INSERT INTO burgers (burger_name, devoured) VALUES ('veggie burger', False);
